@@ -1,0 +1,29 @@
+body {
+  background-color: #ffeac1;
+  font-family: sans-serif;
+}
+
+#cookie {
+  max-width: 300px;
+  width: 100%;
+  padding-top: 5%;
+  display: block;
+  margin: 0 auto;
+}
+
+#counter {
+  text-align: center;
+  font-size: 30pt;
+}
+
+#autoclicker {
+  margin: 0 auto;
+  display: table;
+  font-size: 25pt;
+}
+
+#upgrade {
+  margin: 0 auto;
+  display: table;
+  font-size: 25pt;
+}
