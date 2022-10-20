@@ -10,6 +10,11 @@ body {
   display: block;
   margin: 0 auto;
   cursor: pointer;
+  transition: 0.3s;
+}
+
+#cookie:hover {
+  transform: scale(1.1);
 }
 
 #counter {
