@@ -1,6 +1,7 @@
 body {
   background-color: #ffeac1;
   font-family: sans-serif;
+  user-select: none;
 }
 
 #cookie {
