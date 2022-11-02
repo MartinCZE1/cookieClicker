@@ -1,8 +1,11 @@
 * {
-  background-color: #ffeac1;
   font-family: sans-serif;
   user-select: none;
 }
+
+body {
+  background-color: #ffeac1; 
+ }
 
 #cookie {
   max-width: 300px;
